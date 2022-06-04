@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Cat adoption</string>
+    <string name="password">password</string>
+    <string name="create_account">Create Account</string>
+    <string name="username">username</string>
+    <string name="login">Login</string>
 </resources>
